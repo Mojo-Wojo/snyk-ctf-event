@@ -4,8 +4,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "snyk-security.snyk-vulnerability-scanner",
-        "postman.postman-for-vscode"
+        "snyk-security.snyk-vulnerability-scanner"
       ],
       "settings": {
         "workbench.colorTheme": "Default Dark+",
